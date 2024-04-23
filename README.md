@@ -13,3 +13,7 @@
 ```bash
 git clone https://github.com/tenlisboa/alacritty-config.git ~/.config/alacritty
 ```
+SSH
+```bash
+git clone git@github.com:tenlisboa/alacritty-config.git ~/.config/alacritty
+```
