@@ -4,6 +4,12 @@
 
 [Alacritty.org](https://alacritty.org/config-alacritty.html)
 
-## Installation
+## Installation of Alacritty
 
 [Docs](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)
+
+## Installation of configuration
+
+```bash
+git clone https://github.com/tenlisboa/alacritty-config.git ~/.config/alacritty
+```
