@@ -1,0 +1,34 @@
+[window]
+title = "The Lisboa's playground"
+dimensions.columns = 160
+dimensions.lines = 50
+option_as_alt = "OnlyLeft"
+
+[font]
+normal.family = "SF Mono"
+size = 15.0
+
+[keyboard]
+bindings = [
+{ key = "N", mods = "Control|Shift", action = "CreateNewWindow" },
+{ key = "+", mods = "Control", action = "IncreaseFontSize" },
+{ key = "-", mods = "Control", action = "DecreaseFontSize" },
+{ key = "=", mods = "Control", action = "ResetFontSize" },
+{ key = "Q", mods = "Control|Alt", action = "Quit" },
+{ key = "F", mods = "Control|Shift", action = "SearchForward" },
+
+# MacOS exclusive
+{ key = "1", mods = "Control", action = "SelectTab1" },
+{ key = "2", mods = "Control", action = "SelectTab2" },
+{ key = "3", mods = "Control", action = "SelectTab3" },
+{ key = "4", mods = "Control", action = "SelectTab4" },
+{ key = "5", mods = "Control", action = "SelectTab5" },
+{ key = "6", mods = "Control", action = "SelectTab6" },
+{ key = "7", mods = "Control", action = "SelectTab7" },
+{ key = "8", mods = "Control", action = "SelectTab8" },
+{ key = "9", mods = "Control", action = "SelectTab9" },
+{ key = "T", mods = "Control|Shift", action = "CreateNewTab" },
+]
+
+[debug]
+print_events = true
