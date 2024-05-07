@@ -1,3 +1,10 @@
+import = [
+    "~/.config/alacritty/themes/gruvbox.toml",
+]
+
+[colors]
+colors = *gruvbox_material_medium_dark
+
 [window]
 title = "The Lisboa's playground"
 dimensions.columns = 160
