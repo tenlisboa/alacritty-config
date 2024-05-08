@@ -1,0 +1,21 @@
+[colors] 
+primary = {   background =  "#f9f8f5", foreground =  "#49483e" }
+cursor = {   text =  "#f9f8f5", cursor =  "#49483e" }
+
+normal.black =  "#272822"
+normal.red =  "#f92672"
+normal.green =  "#a6e22e"
+normal.yellow =  "#f4bf75"
+normal.blue =  "#66d9ef"
+normal.magenta =  "#ae81ff"
+normal.cyan =  "#a1efe4"
+normal.white =  "#f8f8f2"
+
+bright.black =  "#75715e"
+bright.red =  "#f92672"
+bright.green =  "#a6e22e"
+bright.yellow =  "#f4bf75"
+bright.blue =  "#66d9ef"
+bright.magenta =  "#ae81ff"
+bright.cyan =  "#a1efe4"
+bright.white =  "#f9f8f5"
