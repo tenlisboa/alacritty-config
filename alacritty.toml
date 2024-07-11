@@ -13,7 +13,7 @@ dimensions.lines = 50
 option_as_alt = "OnlyLeft"
 
 [font]
-normal.family = "GohuFont 14 Nerd Font Mono"
+normal.family = "Monofur Nerd Font"
 size = 15.0
 
 [keyboard]
